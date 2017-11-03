@@ -1,4 +1,4 @@
-# Alpine Linux image running open adventure
+# Colossal Cave Adventure
 
 ## Usage
 `docker run -i -t badbeef67/open-adventure`
